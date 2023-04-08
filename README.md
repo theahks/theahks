@@ -1,8 +1,8 @@
 
 # 💻 Языки:
-![Java](https://img.shields.io/badge/java-3670A0.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-3670A0.svg?style=for-the-badge&logo=java&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-3670A0?style=for-the-badge&logo=Cloudflare&logoColor=ffdd54)
 # 🔰 Социальные сети:
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/theahks)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/theahks)
