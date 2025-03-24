@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Привет, я theahks!
 
-<!--
-**theahks/theahks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theahks&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theahks&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=theahks&theme=dark)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=theahks&theme=dark)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=theahks&theme=dark)
+
+![Metrics](https://metrics.lecoq.io/theahks)
+
